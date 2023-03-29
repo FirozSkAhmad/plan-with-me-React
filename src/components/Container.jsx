@@ -14,7 +14,7 @@ const Container = () => {
   }
   return (
     <div className="container">
-      <h1>Plane With Me</h1>
+      <h1>Plan With Me</h1>
       <div className="subContainer">
         {details.length > 0 ? (
           details.map((singleCD) => {
